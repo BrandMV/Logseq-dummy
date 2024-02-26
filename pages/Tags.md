@@ -1,0 +1,21 @@
+# Group tags
+	- #dev - Grupo de desarrollo
+	- #
+-
+- # Subgroup tags
+	- #Front - Subgrupo frontend
+	- #Back - Subgrupo backend
+	-
+- # People Status
+	- #Activo - Se encuentra activo en la empresa
+	- #Inactivo - Se encuentra inactivo en la empresa
+- # Process Status
+	- [[#Proceso Activo]] - Indica que un proceso esta activo en la empresa
+	- [[#Proceso Inactivo]] - Indica que un proceso no esta activo en la empresa
+- # Categoría
+	- indica a que categoría pertenece cierto proceso
+	- #Tecnología - Categoría de tecnología
+- # Nivel
+  Indica el nivel de la persona
+	- #junior
+	- #senior

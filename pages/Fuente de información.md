@@ -1,0 +1,1 @@
+- {{query (property :tipo [[#Fuente de información]])}}
